@@ -79,7 +79,7 @@ var a11 = {
 
 var a12 = {
     audioPath : "mp3s/Cygnus....Vismund Cygnus.mp3",
-    artPath : "art/Cygnus.jpeg",
+    artPath : "art/Cygnus.jpg",
     name : "Cygnus....Vismund Cygnus",
     artist : "The Mars Volta",
 }
@@ -394,7 +394,7 @@ var a56 = {
 
 var a57 = {
     audioPath : "mp3s/Epitaph.mp3",
-    artPath : "art/heartonwave.jpg",
+    artPath : "art/crimson.jpg",
     name : "Epitaph",
     artist : "King Crimson",
 }
