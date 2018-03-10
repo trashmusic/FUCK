@@ -1,7 +1,7 @@
 
 
 var a1 = {
-    audioPath : "mp3s/a day in the life.mp3",
+    audioPath : "mp3s/A Day In The Life.mp3",
     artPath : "art/a day in the life.jpeg",
     name : "A Day In The Life",
     artist : "The Beatles",
